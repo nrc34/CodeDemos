@@ -1,0 +1,16 @@
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\bin\Debug\AsyncWaitDemo.exe.config
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\bin\Debug\AsyncWaitDemo.exe
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\bin\Debug\AsyncWaitDemo.pdb
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\MainWindow.baml
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\App.g.cs
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo_MarkupCompile.cache
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.g.resources
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.exe
+D:\Visual Studio 2013\Projects\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.pdb
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\AsyncWaitDemo\AsyncWaitDemo\bin\Debug\AsyncWaitDemo.exe.config
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.exe
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\AsyncWaitDemo\AsyncWaitDemo\obj\Debug\AsyncWaitDemo.pdb
