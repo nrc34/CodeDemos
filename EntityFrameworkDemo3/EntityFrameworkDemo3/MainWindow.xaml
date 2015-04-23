@@ -1,0 +1,20 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:data="clr-namespace:EntityFrameworkDemo3.source.data" mc:Ignorable="d" x:Class="EntityFrameworkDemo3.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="modelDemoContainerViewSource" d:DesignSource="{d:DesignInstance {x:Type data:ModelDemoContainer}, CreateList=True}"/>
+        <CollectionViewSource x:Key="userViewSource" d:DesignSource="{d:DesignInstance {x:Type data:User}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource modelDemoContainerViewSource}">
+        <DataGrid x:Name="userDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource userViewSource}}" Margin="61,57,249,63" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="ageColumn" Binding="{Binding Age}" Header="Age" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="genderColumn" Binding="{Binding Gender}" Header="Gender" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="idColumn" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="nameColumn" Binding="{Binding Name}" Header="Name" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
