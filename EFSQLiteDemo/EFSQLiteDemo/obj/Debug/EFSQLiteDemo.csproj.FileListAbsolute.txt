@@ -1,0 +1,44 @@
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EFSQLiteDemo.exe.config
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EFSQLiteDemo.exe
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EFSQLiteDemo.pdb
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\MainWindow.baml
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\App.g.cs
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo_MarkupCompile.cache
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.g.resources
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.exe
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.pdb
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo_MarkupCompile.lref
+D:\Visual Studio 2013\Projects\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EFSQLiteDemo.exe.config
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.exe
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.pdb
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EFSQLiteDemo.exe
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EFSQLiteDemo.pdb
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.dll
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.xml
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\App.g.cs
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo_MarkupCompile.cache
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo_MarkupCompile.lref
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\MainWindow.baml
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.g.resources
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.Properties.Resources.resources
+C:\Users\Nuno Costa\Documents\Visual Studio 2013\Projects\CodeDemos\EFSQLiteDemo\EFSQLiteDemo\obj\Debug\EFSQLiteDemo.csproj.GenerateResource.Cache
