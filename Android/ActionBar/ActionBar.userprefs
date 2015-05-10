@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="ActionBar\ActionBar.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActionBar\Resources\drawable\selector.xml">
+    <Files>
+      <File FileName="ActionBar\MainActivity.cs" Line="26" Column="47" />
+      <File FileName="ActionBar\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="ActionBar\Resources\values\themes.xml" Line="11" Column="40" />
+      <File FileName="ActionBar\Resources\drawable\selector.xml" Line="16" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActionBar" expanded="True">
+            <Node name="ActionBar" expanded="True" selected="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ActionBar AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.Holo.Light.DarkActionBar" />
+</Properties>

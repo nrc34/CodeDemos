@@ -1,0 +1,4 @@
+AppDemoAndroid.MainActivity, AppDemoAndroid;md57a6ee137c2af3506ecb7d53027caa3a4.MainActivity
+AppDemoAndroid.MainActivity, AppDemoAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a6ee137c2af3506ecb7d53027caa3a4.MainActivity
+AppDemoAndroid.MainActivity;md57a6ee137c2af3506ecb7d53027caa3a4.MainActivity
+appdemoandroid.MainActivity;md57a6ee137c2af3506ecb7d53027caa3a4.MainActivity

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionBar", "ActionBar\ActionBar.csproj", "{4D49F80F-0135-4677-A739-F4FC327A24F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionBar.UITests", "ActionBar.UITests\ActionBar.UITests.csproj", "{DD8FBCFE-8EAC-431B-A5D7-1515AF630FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D49F80F-0135-4677-A739-F4FC327A24F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49F80F-0135-4677-A739-F4FC327A24F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49F80F-0135-4677-A739-F4FC327A24F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49F80F-0135-4677-A739-F4FC327A24F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8FBCFE-8EAC-431B-A5D7-1515AF630FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8FBCFE-8EAC-431B-A5D7-1515AF630FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8FBCFE-8EAC-431B-A5D7-1515AF630FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8FBCFE-8EAC-431B-A5D7-1515AF630FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
