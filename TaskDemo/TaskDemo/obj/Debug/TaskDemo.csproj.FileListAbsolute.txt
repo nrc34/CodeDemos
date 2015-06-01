@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe.config
+D:\Visual Studio 2013\Projects\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe
+D:\Visual Studio 2013\Projects\TaskDemo\TaskDemo\bin\Debug\TaskDemo.pdb
+D:\Visual Studio 2013\Projects\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\TaskDemo\TaskDemo\obj\Debug\TaskDemo.exe
+D:\Visual Studio 2013\Projects\TaskDemo\TaskDemo\obj\Debug\TaskDemo.pdb
